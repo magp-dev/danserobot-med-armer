@@ -79,7 +79,7 @@ let DANCE_DURATION = 0
 let ROTATE_SPEED = 0
 let MOVE_SPEED = 0
 // Configuration Constants
-let SWING_ANGLE = 45
+let SWING_ANGLE = 90
 MOVE_SPEED = 40
 ROTATE_SPEED = 40
 let SOUND_THRESHOLD = 80
